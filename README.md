@@ -1,7 +1,7 @@
-### We are conducting research on the theme of robot arm operation using facial expressions. This document is intended to explain the purpose, method, and points to note of the experiment to those who plan to participate in this experiment as experimental collaborators. Please read this explanation about the experiment, fully understand the contents, and freely decide whether to cooperate with the experiment.
+### We are conducting research on the theme of robot arm operation using facial expressions. This document is intended to explain the purpose, method, and points to note of the experiment to those who plan to participate in this experiment as experimental collaborators. Please read this explanation about the experiment, fully understand the contents, and freely decide whether to cooperate with the experiment. 
 
-### 1. Purpose
-##### In the robot arm operation using facial expressions, in order to measure whether a sense of agency is generated, the facial expression is recognized using the camera mounted on the smartphone, and the 3DCG robot arm displayed on the smartphone screen is operated. In addition, we will conduct a questionnaire survey on the perception of sound generated in relation to arm operation.
+### 1. The nature, purpose, and duration of the research
+##### In the robot arm operation using facial expressions, in order to measure whether a sense of agency is generated, the facial expression is recognized using the camera mounted on the smartphone, and the 3DCG robot arm displayed on the smartphone screen is operated. In addition, we will conduct a questionnaire survey on the perception of sound generated in relation to arm operation. This research will be conducted between August and December 2020. Each experiment is completed within an hour.
 
 ### 2. Contents of cooperation
 ##### We ask the perticipants to install the application on their smartphone devices and cooperate with the data collection. The specific details are as follows.
@@ -29,6 +29,9 @@
 ### 9. Cost of this research
 ##### This research is supported by JST ERATO JPMJER1701. 
 
-### 10. Contact information
+### 10.The withdrawal process
+##### If you interrupt your research and want to discard your data, please email us at the contact address.
+
+### 11. Contact information
 ##### Representative:Maki Sugimoto at Keio University, 3-14-1 Hiyoshi, Kohoku-ku, Yokohama-shi, Kanagawa 223-8522 Japan
 ##### Person in charge:Masaki Fukuoka; Email:mskifukuoka[at]imlab.ics.keio.ac.jp 
