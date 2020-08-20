@@ -34,4 +34,4 @@
 
 ### 11. Contact information
 ##### Representative:Maki Sugimoto at Keio University, 3-14-1 Hiyoshi, Kohoku-ku, Yokohama-shi, Kanagawa 223-8522 Japan
-##### Person in charge:Masaki Fukuoka; Email:mskifukuoka[at]imlab.ics.keio.ac.jp 
+##### Person in charge:Masaki Fukuoka; Email:makkifuku.imlab[at]gmail.com
